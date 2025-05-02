@@ -6,11 +6,9 @@ Sistem Pengelolaan Buku adalah aplikasi berbasis web yang memungkinkan pengguna 
 
 📖 Manajemen Data Buku
 
-Tambah, edit, dan hapus buku
+- Tambah, edit, dan hapus buku
 
-Pencarian berdasarkan judul, pengarang, atau kategori
-
-👤 Manajemen Pengguna (opsional: admin & user)
+- Pencarian berdasarkan judul, pengarang, atau kategori
 
 💬 Flash Message untuk notifikasi aksi
 
